@@ -1,8 +1,8 @@
 # Final-Project
-Title:
+## Title:
 Predicting the confident value of amino acid in protein by using 3D Convolutional neural network (3DCNN)
 
-Description:
+## Description:
 Proteins are made up of chains of amino acids which fold into unique 3D structures to give each
 protein a different function. Google DeepMind’s AlphaFold can predict the structure of protein with
 apparent high accuracy which can help scientists to understand how the protein works and what the
@@ -16,14 +16,14 @@ will be the method that will be used in this project. First, a 20x20x20 angstrom
 positioned at each residue’s alpha-carbon atom. Second, the number of different element atoms that appear
 in the voxels will be counted. Lastly, a 3DCNN will be used to predict the amino acid’s confidence value using the voxel data as input.
 
-•	Software Resources
-IDE: JetBrain PyCharm Community (Version: 2021.2.3), in both Windows and macOS Apple Silicon version.
-Environment: Python 3.8 – Anaconda
-Packages:
-	NumPy v1.19.5
-	Torch v1.10.0
-	Biopandas v0.2.9
+## Software & Hardware Resources
+### Software Resources:
+#### IDE: 
+JetBrain PyCharm Community (Version: 2021.2.3), in both Windows and macOS Apple Silicon version.
+#### Environment: 
+Python 3.8 – Anaconda
+#### Packages:
+NumPy v1.19.5, Torch v1.10.0, Biopandas v0.2.9
 
-•	Hardware Resources
-Alienware 17 R4 with Windows 10 system
-MacBook Pro 13’’ with Apple M1 chip
+### Hardware Resources:
+Alienware 17 R4 with Windows 10 system, MacBook Pro 13’’ with Apple M1 chip
