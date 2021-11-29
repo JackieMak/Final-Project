@@ -16,3 +16,14 @@ will be the method that will be used in this project. First, a 20x20x20 angstrom
 positioned at each residue’s alpha-carbon atom. Second, the number of different element atoms that appear
 in the voxels will be counted. Lastly, a 3DCNN will be used to predict the amino acid’s confidence value using the voxel data as input.
 
+•	Software Resources
+o	IDE: JetBrain PyCharm Community (Version: 2021.2.3), in both Windows and macOS Apple Silicon version.
+o	Environment: Python 3.8 – Anaconda
+o	Packages:
+	NumPy v1.19.5
+	Torch v1.10.0
+	Biopandas v0.2.9
+
+•	Hardware Resources
+o	Alienware 17 R4 with Windows 10 system
+o	MacBook Pro 13’’ with Apple M1 chip
