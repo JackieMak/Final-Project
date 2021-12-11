@@ -13,6 +13,7 @@ Proteins are made up of chains of amino acids which fold into unique 3D structur
 Python 3.8 – Anaconda
 #### IDE: 
 Google Colab
+
 JetBrain PyCharm Community (Version: 2021.2.3), in both Windows and macOS Apple Silicon version.
 #### Packages:
 Biopandas v0.2.9, Matplotlib v3.4.2, NumPy v1.19.5, Scikit-learn v0.24.2, Torch v1.10.0
